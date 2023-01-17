@@ -20,7 +20,7 @@ def main(tab):
                 win = True
                 break
         if counter == 9:
-            print ("Ничья!")
+            print("Ничья!")
             break
     print("Итоговая таблица:")
     pt(tab)
